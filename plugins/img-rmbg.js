@@ -75,7 +75,7 @@ cmd({
 
     await conn.sendMessage(m.chat, {
       image: imageBuffer,
-      caption: `Background removed\n\n> *Powered by JawadTechX*`
+      caption: `Background removed\n\n> *Powered by HACKLINK TECH.INC*`
     });
 
   } catch (error) {
