@@ -1,7 +1,7 @@
 //---------------------------------------------------------------------------
-//           KHAN-MD  
+//           HACKLINK-XMD 
 //---------------------------------------------------------------------------
-//  ⚠️ DO NOT MODIFY THIS FILE ⚠️  
+//  ⚠️ DO NOT MODIFY THIS FILE ⚠️  just modify at your own accordance 
 //---------------------------------------------------------------------------
 const { cmd, commands } = require('../command');
 const config = require('../config');
