@@ -119,8 +119,8 @@ ${config.DESCRIPTION}`;
                 forwardingScore: 999,
                 isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                    newsletterJid: '120363354023106228@newsletter',
-                    newsletterName: config.OWNER_NAME || 'JawadTechX',
+                    newsletterJid: '120363400583993139@newsletter',
+                    newsletterName: config.OWNER_NAME || 'HACKLINK',
                     serverMessageId: 143
                 }
             }
